@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a development of a basic calculator in React JS.
+
+The purpose of this development is to training development with the Framework
 
 ## Available Scripts
 
